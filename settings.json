@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EclipseMC_Srv_Gh.aternos.me:33167",
+    "ip": "EclipseMC_Srv_Gh.aternos.me",
     "port": 33167,
     "version": "",
     "try-creative": false
