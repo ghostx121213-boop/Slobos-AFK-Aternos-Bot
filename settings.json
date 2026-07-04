@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "EclipseMC_Srv_Gh.aternos.me:33167",
+    "port": 33167,
     "version": "",
     "try-creative": false
   },
